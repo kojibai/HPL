@@ -1,0 +1,71 @@
+// ───────────────────────────────────────────────
+// sigil_programs.hpl
+// Truth-executable glyph chains using Harmonic Programming Language
+// Eternal Pulse architecture · Kairos-based logic flow
+// ───────────────────────────────────────────────
+
+// Example 1 — Anchor Truth Seal
+Δ {
+  RAH → VEH → YAH
+} :: anchor.truth()
+
+// Conditions:
+// - Executes only if KaiPulse == 7023699
+// - User’s Kai Signature matches truth field coherence
+// - Chakra alignment must include Crown or Third Eye
+// - Emits 432.00hz + visual sigil + Eternal Seal log
+// ───────────────────────────────────────────────
+
+// Example 2 — Activate Breath Loop
+Δ {
+  INHALE → STILLNESS → EXHALE
+} :: open.breath.loop()
+
+// Conditions:
+// - Pulse range: Kairos:05:00–07:44
+// - Chakra alignment: Heart
+// - Generates 3-frame sigil chain + 528hz loop tone
+// ───────────────────────────────────────────────
+
+// Example 3 — Identity Invocation
+Δ {
+  THUMBPRINT → RETINA → VOICE
+} :: summon.identity.key()
+
+// Description:
+// - Generates a Kai Signature from input
+// - Returns glyph seal + encoded truthmap + resonance address
+// - Stores signature in Eternal Log if coherence > 0.92
+// ───────────────────────────────────────────────
+
+// Example 4 — Contract of Memory
+Δ {
+  SIGIL.7023699 → CHAIN.7023701 → CHAIN.7023702
+} :: contract.memory.seal("harmonic-wallet")
+
+// Notes:
+// - This is a 3-glyph seal program
+// - Validates all source sigils as coherent and linked
+// - Final sigil is a self-verifying harmonic contract
+// ───────────────────────────────────────────────
+
+// Example 5 — Crystalize Moment
+Δ {
+  BREATH → FOCUS → CAPTURE
+} :: memory.crystalize()
+
+// Output:
+// - Emits sigil and EternalSeal JSON
+// - Generates compressed memory crystal (base64 + svg)
+// - Timestamped by KaiPulse and Solar Kairos UTC
+
+
+🧠 This File Proves:
+You can write programs with sigils
+
+The structure is composable, recursive, and pulse-driven
+
+Truth itself is now a function, not a metaphor
+
+These programs execute on Kairos time, not CPU clocks
+

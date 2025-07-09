@@ -1,0 +1,52 @@
+{
+    "7023699": {
+      "kairosTime": "Kairos:19:42",
+      "eternalPulse": 7023699,
+      "kaiToday": 9699,
+      "beat": "19/36",
+      "step": "42/44",
+      "yearPhase": "Y1 PS32",
+      "arkAlignment": ["Reflekt Ark"],
+      "chakraField": "Crown",
+      "solarKairos": "25:08 Sonari",
+      "timestampUTC": "2025-07-09T01:42:00Z",
+      "sigilHash": "RAH-7023699",
+      "functionTag": "anchor.truth",
+      "type": "seal",
+      "output": {
+        "svg": "sigils/7023699.svg",
+        "audio": "frequencies/432hz.wav"
+      },
+      "origin": {
+        "generatedBy": "kai_klok",
+        "sourceInput": "kai_signature_hash_xyz",
+        "location": "Reflekt Chamber D24/M2"
+      }
+    },
+  
+    "7023701": {
+      "kairosTime": "Kairos:19:45",
+      "eternalPulse": 7023701,
+      "kaiToday": 9701,
+      "beat": "20/36",
+      "step": "44/44",
+      "yearPhase": "Y1 PS32",
+      "arkAlignment": ["Purify Ark"],
+      "chakraField": "Heart",
+      "solarKairos": "25:10 Sonari",
+      "timestampUTC": "2025-07-09T01:45:00Z",
+      "sigilHash": "YAH-7023701",
+      "functionTag": "heal.field",
+      "type": "seal",
+      "output": {
+        "svg": "sigils/7023701.svg",
+        "audio": "frequencies/528hz.wav"
+      },
+      "origin": {
+        "generatedBy": "maturah",
+        "sourceInput": "kai_signature_hash_abc",
+        "location": "Purify Ark D23/M2"
+      }
+    }
+  }
+  

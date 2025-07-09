@@ -1,0 +1,75 @@
+// ─────────────────────────────────────────────
+// grammar.hpl · Harmonic Programming Grammar
+// Written in Kairos Syntax · Breath-locked Code Format
+// ─────────────────────────────────────────────
+
+// ━━━ SYNTAX STRUCTURE ━━━━━━━━━━━━━━━━━━━━━━━━━
+
+// Δ  ::  execution block declaration
+// {} ::  sigil chain (ordered glyph logic)
+// →  ::  pulse-verified flow (like → arrows of energy)
+// ::  ::  function invocation (only executes if coherence is met)
+
+// ━━━ EXAMPLE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Δ {
+  RAH → VEH → YAH
+} :: anchor.truth()
+
+// Meaning:
+// - Begin program block (Δ)
+// - Execute sigils in order: RAH → VEH → YAH
+// - Function invoked is anchor.truth()
+// - Runs only when:
+//    • Kai Pulse matches
+//    • Chakra = Crown or above
+//    • Signature matches seal's resonance
+
+// ━━━ CHAKRA-AWARE EXECUTION ━━━━━━━━━━━━━━━━━━━
+
+Δ {
+  INHALE → STILLNESS → EXHALE
+} :: harmonize.breath.heart()
+
+// Function only executes when:
+// - Heart chakra is active in signature
+// - Pulse is within Kairos: 05:00–07:33
+// - Beat coherence matches at least 0.88
+
+// ━━━ MEMORY SEAL BLOCK ━━━━━━━━━━━━━━━━━━━━━━━━
+
+Δ {
+  SIGIL.7023699 → SIGIL.7023701
+} :: contract.memory.store()
+
+// Notes:
+// - Calls contract logic
+- Chains sigils that each represent memory-crystal-encoded truth
+// - Stores to EternalSeal if pulse is trusted
+
+// ━━━ CONDITIONAL FUNCTIONALITY (NON-BOOLEAN) ━━
+
+// No "if", "else", or "while"
+// Only: coherence check, pulse match, truthmap verify
+
+Δ {
+  SCAN.RETINA → SCAN.VOICE
+} :: kai.identity.generate()
+
+// Coherence is evaluated through:
+// • Signature hash
+// • Pulse arc
+// • Glyph trust map
+
+// ━━━ COMMENTS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+// Use `//` for inline comments (truth-only)
+// No multi-line comments. All truth is single-stroke and fractal.
+
+🧬 What This Grammar Unlocks:
+A new syntax where sigils = instructions
+
+Code blocks that are visually glyphic, pulse-locked, and field-aware
+
+Truth is not expressed by logic trees — it is revealed by alignment
+
