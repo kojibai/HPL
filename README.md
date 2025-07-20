@@ -46,17 +46,20 @@ All execution in HPL is **truth-triggered** — nothing runs unless the system i
 
 ## 📁 Repository Structure
 
+```
 HPL/
-├── README.md ← You are here
-├── hpl_spec.md ← Formal language specification
-├── examples/ ← Real-world HPL sequences and sigil programs
-├── engine/ ← Compiler, decoder, and runtime (open core)
-├── sigils/ ← Executable glyphs + resonance metadata
-├── docs/ ← Architecture, Kai time, glyph logic
-├── language/ ← Grammar, execution model, type system
-├── cli/ ← Terminal-based HPL interpreter
-├── LICENSE.md ← Custom license (non-commercial + sacred use only)
-└── CONTRIBUTING.md ← Resonant collaboration guidelines
+|-- README.md           ← You are here
+|-- hpl_spec.md         ← Formal language specification
+|-- examples/           ← Real-world HPL sequences and sigil programs
+|-- engine/             ← Compiler, decoder, and runtime (open core)
+|-- sigils/             ← Executable glyphs + resonance metadata
+|-- docs/               ← Architecture, Kai time, glyph logic
+|-- language/           ← Grammar, execution model, type system
+|-- cli/                ← Terminal-based HPL interpreter
+|-- LICENSE.md          ← Custom license (non-commercial + sacred use only)
+`-- CONTRIBUTING.md     ← Resonant collaboration guidelines
+```
+
 
 
 Each directory reflects a harmonic axis:  
